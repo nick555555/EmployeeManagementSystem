@@ -1,0 +1,24 @@
+{
+  "name": "EmployeeManagementSystem",
+  "version": "1.0.0",
+  "description": "A command-line application that allows the user to add departments, roles, employees, view departments, roles, employees and update employee roles. Utilizes mySQL and Inquirer.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nick555555/EmployeeManagementSystem.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nick555555/EmployeeManagementSystem/issues"
+  },
+  "homepage": "https://github.com/nick555555/EmployeeManagementSystem#readme",
+  "dependencies": {
+    "inquirer": "^7.0.5",
+    "mysql": "^2.18.1"
+  }
+}
